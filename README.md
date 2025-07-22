@@ -36,7 +36,6 @@ The main interface includes:
 - Qt Creator (with Qt 5 or Qt 6)
 - A working C++ compiler
 
-### Steps:
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/HarmeettSinghh/QtEventReminder.git
+
+<img width="1920" height="1080" alt="2025-07-23" src="https://github.com/user-attachments/assets/b902923a-d01e-436f-8093-4a0df581e9ac" />
+
